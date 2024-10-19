@@ -102,3 +102,20 @@ Videos/
 anaconda3/
 bootcamp ressources/
 project_webscraping/
+# Configuration Git
+.gitconfig
+
+# Fichiers exécutables
+Git-2.46.1-64-bit.exe
+
+# Fichiers système
+NTUSER.DAT
+NTUSER.DAT{04b4bd60-71e3-11ee-af11-8856b95c2c7c}.TM.blf
+NTUSER.DAT{04b4bd60-71e3-11ee-af11-8856b95c2c7c}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{04b4bd60-71e3-11ee-af11-8856b95c2c7c}.TMContainer00000000000000000002.regtrans-ms
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+
+# Fichiers compressés
+wordpress-seo-premium-23.4.zip
