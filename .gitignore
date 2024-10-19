@@ -24,6 +24,48 @@ build/
 # OS generated files
 .DS_Store
 Thumbs.db
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# JavaScript files
+*.js
+
+# JSON files
+*.json
+
+# Empty files (if you want to ignore them, although it's not common)
+*.empty
+
+# ASCII text files with CRLF line terminators
+*.txt
+
+# Additional entries
+* troff or preprocessor input, ASCII text
+* gzip compressed data, max compression, original size modulo 2^32 111498
+* Binary file (not showing content)
+* data
+* Binary file (not showing content)
+
 C:\Users\drahl\.anaconda
 C:\Users\drahl\.android
 C:\Users\drahl\.conda
