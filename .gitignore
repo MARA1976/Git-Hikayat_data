@@ -34,5 +34,6 @@ US+Candy+Distributor\Project_1\customer_factory_distance_map.html
 # Ignorer tous les fichiers Excel et csv
 *.xlsx
 *.csv
+*.txt
 
 pathtomyubuntu.txt
