@@ -1,0 +1,11 @@
+# Ignorer les fichiers et dossiers non suivis
+.anaconda/ .android/ .bash_history .bash_profile .conda/ .config/ .continuum/ .docker/ .dotnet/ 
+.gitconfig .gk - Copie/ .gk/ .ipynb_checkpoints/ .ipython/ .jupyter/ .matplotlib/ .openshot_qt/ 
+.virtual_documents/ .vscode/ AppData/ Application Data/ Contacts/ Cookies/ Desktop/ Document/ Documents/ 
+Downloads/ Exercises/ Favorites/ FileOptimizer/ FileZilla FTP Client/ Git-2.46.1-64-bit.exe Links/ Local 
+Settings/ Mentor-BusinessIntelligence/ "Menu D\303\251marrer/" "Mes documents/" Microsoft/ NTUSER.DAT 
+NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TM.blf 
+NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000001.regtrans-ms 
+NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000002.regtrans-ms OneDrive/ 
+Recent/ Searches/ SendTo/ anaconda3/ "bootcamp ressources/" ntuser.dat.LOG1 ntuser.dat.LOG2 ntuser.ini 
+project_webscraping/ source/ wordpress-seo-premium-23.4.zip
