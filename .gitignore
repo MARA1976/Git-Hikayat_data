@@ -1,0 +1,266 @@
+## ==================================================
+# Ignorer les fichiers système et personnels
+# ==================================================
+.bash_history
+.bashrc
+.docker/
+.dotnet/
+.openshot_qt/
+Contacts/
+Microsoft/
+NTUSER.DAT*
+*.TM.blf
+*.regtrans-ms
+
+# ==================================================
+# Ignorer les fichiers spécifiques au projet
+# ==================================================
+project_1 V2.osp
+project_1 V2_assets/
+sales_profilling.csv
+
+# ==================================================
+# Ignorer les fichiers temporaires et de cache
+# ==================================================
+*.tmp
+*.log
+*.cache
+*.temp
+*.swp
+
+# ==================================================
+# Ignorer les fichiers de sauvegarde
+# ==================================================
+*.bak
+*.backup
+
+# ==================================================
+# Ignorer les fichiers de configuration
+# ==================================================
+*.config
+*.conf
+*.ini
+
+# ==================================================
+# Ignorer les fichiers de données
+# ==================================================
+*.csv
+*.json
+*.xml
+
+# ==================================================
+# Ignorer les fichiers de compilation
+# ==================================================
+*.exe
+*.dll
+*.so
+*.o
+*.obj
+
+# ==================================================
+# Ignorer les fichiers de dépendances
+# ==================================================
+*.jar
+*.war
+*.ear
+*.class
+
+# ==================================================
+# Ignorer les fichiers de documentation
+# ==================================================
+*.doc
+*.docx
+*.pdf
+*.txt
+
+# ==================================================
+# Ignorer les fichiers image
+# ==================================================
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+
+# ==================================================
+# Ignorer les fichiers vidéo
+# ==================================================
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+
+# ==================================================
+# Ignorer les fichiers audio
+# ==================================================
+*.mp3
+*.wav
+*.flac
+*.aac
+
+# ==================================================
+# Ignorer les fichiers de développement (exemples)
+# ==================================================
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# Fichiers Node.js
+node_modules/
+npm-debug.log*
+
+# Fichiers Java
+*.class
+*.war
+*.ear
+
+# Fichiers C/C++
+*.o
+*.out
+*.exe
+
+# Fichiers IDE (Visual Studio Code, IntelliJ, etc.)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Fichiers de build
+build/
+dist/
+*.egg-info/
+*.manifest
+*.spec
+
+# Fichiers de logs
+*.log
+logs/
+
+# Fichiers de tests
+*.test
+*.spec
+coverage/
+.coveralls.yml
+
+# Fichiers de déploiement
+.DS_Store
+Thumbs.db
+
+# Fichiers conda
+*.yaml
+*.yml
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar
+*.zip
+*.gz
+*.bz2
+*.xz
+*.egg
+*.egg-info
+*.whl
+
+# Fichiers texte
+*.txt
+*.md
+*.rst
+*.html
+*.css
+*.js
+*.json
+*.xml
+*.yaml
+*.yml
+*.csv
+*.tsv
+*.ini
+*.cfg
+*.conf
+*.config
+*.env
+*.env.example
+*.log
+*.map
+*.sql
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+*.backup
+*.swp
+*.tmp
+*.temp
+*.cache
+*.diff
+*.patch
+*.orig
+*.min
+
+# Fichiers Jupyter Notebook
+*.ipynb
+*.nbconvert.ipynb
+*.nbconvert.html
+*.nbconvert.pdf
+*.nbconvert.md
+*.nbconvert.tex
+*.nbconvert.txt
+*.nbconvert.xml
+*.nbconvert.slides.html
+*.nbconvert.slides.pdf
+*.nbconvert.slides.md
+*.nbconvert.slides.tex
+*.nbconvert.slides.txt
+*.nbconvert.slides.xml
+*.nbconvert.latex
+*.nbconvert.latex_main
+*.nbconvert.latex_support
+*.nbconvert.latex_toc
+*.nbconvert.latex_toc_main
+*.nbconvert.latex_toc_support
+*.nbconvert.latex_toc_toc
+*.nbconvert.latex_toc_toc_main
+*.nbconvert.latex_toc_toc_support
+*.nbconvert.latex_toc_toc_toc
+*.nbconvert.latex_toc_toc_toc_main
+*.nbconvert.latex_toc_toc_toc_support
+*.nbconvert.latex_toc_toc_toc_toc
+*.nbconvert.latex_toc_toc_toc_toc_main
+# Ignorer les fichiers système et personnels
+.anaconda/
+.android/
+.bash_profile
+.conda/
+.gitconfig
+.ipython/
+.jupyter/
+.matplotlib/
+.virtual_documents/
+AppData/
+Desktop/
+Document/
+Documents/
+Downloads/
+Exercises/
+Favorites/
+FileOptimizer/
+FileZilla FTP Client/
+Links/
+Mentor-BusinessIntelligence/
+Octoparse/
+OneDrive/
+Pictures/
+Searches/
+anaconda3/
+bootcamp ressources/
+project_webscraping/
+source/
